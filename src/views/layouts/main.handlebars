@@ -13,17 +13,17 @@
   </head>
   <body>
     <header>
-      <p>Navigation</p>
+      {{> navigation}}
     </header>
 
-    <main class='container'>
+    <main class='container p-4'>
       {{> messages}}
       {{> errors}}
       {{{body}}}
     </main>
 
     <footer>
-      <p>Footer</p>
+      {{> footer}}
     </footer>
   </body>
   <script

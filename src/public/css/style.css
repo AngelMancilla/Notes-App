@@ -5,3 +5,7 @@ body {
   color: #ffffff;
   font-family: 'Source Sans 3', sans-serif;
 }
+
+.center-icon {
+  display: flex;
+}
