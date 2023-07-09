@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&display=swap');
 
 body {
-  background: #181818;
+  background-image: linear-gradient(to right top, #101010, #151515, #1a191a, #1f1e1e, #242222);
   color: #ffffff;
   font-family: 'Source Sans 3', sans-serif;
 }
